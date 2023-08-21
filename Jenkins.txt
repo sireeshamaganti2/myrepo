@@ -1,1 +1,11 @@
-dsghghgdrdsggf
+Jenkins
+===========
+This is a tool used for implementing CI-CD
+
+Stage in CI-CD
+====================
+Stage 1 (Continuous Download)
+------------------------------------
+Whenever developers upload some code into the Git repository
+Jenkins  will receive a notification and it will download 
+all that code.This is called as Continuous Download
